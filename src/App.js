@@ -10,6 +10,7 @@ function App() {
          <Route path='/' element={<Home></Home>}></Route>
          <Route path='user/add' element={<AddUser></AddUser>}></Route>
        </Routes>
+       
     </div>
   );
 } 
